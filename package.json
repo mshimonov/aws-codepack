@@ -1,0 +1,27 @@
+{
+    "name": "aws-codepack",
+    "displayName": "aws-codepack",
+    "description": "Manage MD and a host of other files on an AWS server.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "hnw.vscode-auto-open-markdown-preview",
+        "adpyke.codesnap",
+        "coenraads.bracket-pair-colorizer-2",
+        "usernamehw.errorlens",
+        "mhutchie.git-graph",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "oderwat.indent-rainbow",
+        "yzhang.markdown-all-in-one",
+        "shd101wyy.markdown-preview-enhanced",
+        "davidanson.vscode-markdownlint",
+        "shardulm94.trailing-spaces",
+        "visualstudioexptteam.vscodeintellicode"
+    ]
+}
