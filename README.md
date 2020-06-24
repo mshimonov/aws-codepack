@@ -22,7 +22,7 @@ Here are some useful extensions included in this pack:
 
 ## For more information
 
-You can review what is changed every release by looking at the [Changelog File](https://github.com/mshimonov/aws-codepack/CHANGELOG.md).
+You can review what is changed every release by looking at the [Changelog File](https://github.com/mshimonov/aws-codepack/blob/master/CHANGELOG.md).
 
 If you failed to install or update this extension pack. Try removing it first by uninstall or removing/uninstalling all extensions from your VS Code, then try reinstalling this extension pack again. Don't forget to use a reliable internet connection.
 
